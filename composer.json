@@ -1,0 +1,15 @@
+{
+    "name": "joice/teste",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joice Ferreira Passos",
+            "email": "joicepassos72@gmail.com"
+        }
+    ],
+    "require": {}
+}
