@@ -1,6 +1,6 @@
 # PHP-VanillaJS-Bootstrap-Shopping-Cart
 
-This is a shopping cart application built using PHP, Vanilla JavaScript, and Bootstrap 5. It allows users to browse and add products to a shopping cart, and view the total cost of the items in the cart. The application uses the Model-View-Controller (MVC) design pattern, and implements SOLID and clean code principles.
+This is a shopping cart application built using PHP, Vanilla JavaScript, and Bootstrap 5. It allows users to browse and add products to a shopping cart, and view the total cost of the items in the cart.
 
 ## Installation
 
